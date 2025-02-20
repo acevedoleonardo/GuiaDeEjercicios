@@ -6,9 +6,9 @@ Los ejercicios de Cardio son actividades que aumentan tu frecuencia cardiaca y m
 
 ## Beneficios 
 
--Aumenta la capacidad Cardiovascular 
--Ayuda a quemar calorias 
--Mejora el estado de animo 
+- Aumenta la capacidad Cardiovascular 
+- Ayuda a quemar calorias 
+- Mejora el estado de animo 
 
  
 
