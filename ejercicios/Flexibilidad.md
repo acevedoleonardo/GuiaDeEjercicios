@@ -17,5 +17,11 @@ Los ejercicios de flexibilidad ayudan a mejorar el rango de movimiento de las ar
 3. Mantén cada estiramiento durante 20-30 segundos sin rebotes y repítelo de 2 a 3 veces.
 4. Termina con respiraciones profundas y relajación.
 
+## Consejos
+
+- No te fuerces a realizar un estiramiento que cause dolor; deberías sentir una leve tensión.
+- Realiza estiramientos al menos 3 veces por semana para mejorar la flexibilidad con el tiempo.
+
+*markdown*
 
 
