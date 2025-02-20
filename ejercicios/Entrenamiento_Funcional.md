@@ -18,3 +18,12 @@ El entrenamiento funcional se basa en movimientos naturales del cuerpo para mejo
 4. Completa de 3 a 5 rondas según tu nivel.
 5. Finaliza con estiramientos y ejercicios de movilidad.
 
+## Consejos
+
+- Mantén una buena postura en cada movimiento.
+- Ajusta la intensidad según tu condición física.
+- Descansa adecuadamente entre sesiones para una mejor recuperación.
+
+*Typemarkdown*
+
+ 
