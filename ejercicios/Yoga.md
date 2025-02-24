@@ -12,5 +12,11 @@ para mejorar la flexibilidad, fuerza y equilibrio.
 - Mejora el equilibrio y la postura.
 - Fomenta la conexión mente-cuerpo.
 
+## Instrucciones
+
+1. Comienza con una breve meditación o respiración profunda durante 5 minutos.
+2. Realiza las posturas de yoga, manteniendo cada una de 20 a 30 segundos, centrándote en tu respiración.
+3. Al finalizar la práctica, dedica unos minutos a la postura de relajación (Savasana) para integrar la energía.
+
 
 
