@@ -18,5 +18,14 @@ para mejorar la flexibilidad, fuerza y equilibrio.
 2. Realiza las posturas de yoga, manteniendo cada una de 20 a 30 segundos, centrándote en tu respiración.
 3. Al finalizar la práctica, dedica unos minutos a la postura de relajación (Savasana) para integrar la energía.
 
+## Consejos
+
+- Escoge un espacio tranquilo y libre de distracciones.
+- Escucha a tu cuerpo; no te forces en las posturas.
+- Mantén la respiración constante y profunda.
+- Practica regularmente para obtener mejores resultados.
+
+*markdown*
+
 
 
